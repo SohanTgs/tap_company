@@ -144,10 +144,11 @@ class PaymentController extends Controller
 
 
     public static function userDataUpdate($trx)
-    {
+    {     
         $gnl = GeneralSetting::first();
         $data = Deposit::where('trx', $trx)->first();
-        if ($data->status == 0) {
+
+        if ($data->status == 0) {      
             $data['status'] = 1;
             $data->update();
 

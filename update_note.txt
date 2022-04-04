@@ -1,0 +1,19 @@
+Date: 4th November 2020
+-----------------------
+1.Facebook Comment Plugin Added
+2.Section Manager Minimum 1 Validation Removed
+3.Frontend Element table's label updated
+4.FrontendController frontendContent method updated for seo
+5.views/partials/seo.blade.php: title tag added
+6.helper: getCustomCaptcha() function font and color updated;
+
+
+Date: 7th November 2020
+-----------------------
+1.AuthorizationController updated
+2.views/user/auth/authorization folder updated.(banned.blade.php file removed)
+3.FrontendController frontendContent method updated
+4.views/admin/layouts/master.blade.php updated. ( nic editor on focus active option. script you will get in bottom of this file )
+5.views/admin/gateway/edit.blade.php updated. ( line:108, syntext error fixed )
+6.views/user/deposit_history.blade.php updated. ( script updated )
+7.views/user/twofactor.blade.php updated.

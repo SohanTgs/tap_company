@@ -1,0 +1,242 @@
+{
+
+    "accept_gateway": {
+        "builder": true,
+        "name": "Accepted Gateway",
+        "content": {
+            "title": "text",
+            "heading": "text"
+        }
+
+    },
+
+    "banner_two": {
+        "builder": true,
+        "name": "Banner Two",
+        "content": {
+            "images": {
+                "image": {
+                    "size": "900x780"
+                }
+            },
+            "title": "text",
+            "heading": "text",
+            "paragraph": "text",
+            "button_text": "text",
+            "button_link": "text"
+        },
+        "element": {
+            "text": "text",
+            "modal": true
+        }
+    },
+
+    "banner_one": {
+        "builder": true,
+        "name": "Banner One",
+        "content": {
+            "images": {
+                "background_image": {
+                    "size": "1137x881"
+                }
+            },
+            "hilight_one": "text",
+            "heading_one": "text",
+            "title_one": "text",
+            "button_one_text": "text",
+            "button_one_link": "text",
+
+            "hilight_two": "text",
+            "heading_two": "text",
+            "title_two": "text",
+            "button_two_text": "text",
+            "button_two_link": "text"
+        },
+        "element": {
+            "social_icon": "icon",
+            "social_link": "text",
+            "modal": true
+        }
+    },
+
+    "features": {
+        "builder": true,
+        "name": "Features",
+        "content": {
+            "heading": "text",
+            "title": "text"
+        },
+        "element": {
+            "feature_name": "text",
+            "icon": "icon",
+            "paragraph": "text",
+            "modal": true
+        }
+    },
+
+    "latest_trx": {
+        "builder": true,
+        "name": "Latest Transaction",
+        "content": {
+            "title": "text",
+            "heading": "text"
+        }
+
+    },
+    "video": {
+        "builder": true,
+        "name": "Video Section",
+        "content": {
+            "images": {
+                "video_image": {
+                    "size": "785x300"
+                }
+            },
+            "heading": "text",
+            "text": "text",
+            "icon": "icon",
+            "video_link": "text"
+        }
+
+    },
+    "top_investor": {
+        "builder": true,
+        "name": "Top Investors",
+        "content": {
+            "title": "text",
+            "heading": "text"
+        }
+    },
+    "uestion_ans": {
+        "builder": true,
+        "name": "Answer Section",
+        "content": {
+            "title": "text",
+            "heading": "text"
+        },
+        "element": {
+            "question": "text",
+            "answer": "textarea",
+            "modal": true
+        }
+    },
+
+    "nav_mobile": {
+        "builder": true,
+        "name": "Navbar Mobile",
+        "content": {
+            "mobile": "text"
+        }
+    },
+
+    "about": {
+        "builder": true,
+        "name": "About",
+        "content": {
+            "images": {
+                "image_one": {
+                    "size": "483x479"
+                },
+                "image_two": {
+                    "size": "483x479"
+                }
+            },
+            "first_heading": "text",
+            "second_heading": "text",
+            "fitst_title": "text",
+            "second_title": "text",
+            "first_description": "textarea",
+            "second_description": "textarea"
+        }
+    },
+
+
+    "blog": {
+        "builder": true,
+        "name": "Blog Section",
+        "content": {
+            "title": "text",
+            "heading": "text"
+        },
+        "element": {
+            "images": {
+                "blog_image": {
+                    "size": "760x380"
+                }
+            },
+            "title": "text",
+            "paragraph": "text",
+            "description": "textarea",
+            "modal": false
+        }
+    },
+    "subscribe": {
+        "builder": true,
+        "name": "Subscribe Section",
+        "content": {
+            "heading": "text",
+            "text": "text",
+            "heading_two": "text",
+            "text_two": "text",
+            "button_text": "text",
+            "button_link": "text",
+            "commission": "text",
+            "subscribe_text": "text"
+        }
+    },
+    "social_icon": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Social Icons",
+        "element": {
+            "title": "text",
+            "social_icon": "icon",
+            "url": "text",
+            "modal": true
+        }
+    },
+
+    "contact": {
+        "builder": true,
+        "name": "Contact",
+        "content": {
+            "heading": "text",
+            "title": "text"
+
+        }
+    },
+
+    "login_and_register": {
+        "builder": true,
+        "name": "Login/Register Image",
+        "content": {
+            "images": {
+                "image": {
+                    "size": "475x602"
+                }
+            }
+
+        }
+    },
+
+
+    "footer": {
+        "builder": true,
+        "name": "Footer",
+        "content": {
+            "title": "text",
+            "title_one": "text",
+            "title_two": "text",
+            "email_address": "text",
+            "contact_details": "text",
+            "contact_number": "text",
+            "website": "text",
+            "copyright": "text"
+        },
+        "element": {
+            "social_icon": "icon",
+            "social_link": "text",
+            "modal": true
+        }
+    }
+}
